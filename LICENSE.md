@@ -1,4 +1,4 @@
-# 
+# Personnalisé ProtonVPN plugins pour Mac OS | Natif ProtonVPN plugins pour PC Windows. Avec gestion de la quarantaine et obfuscation — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
